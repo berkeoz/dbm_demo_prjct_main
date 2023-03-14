@@ -1,0 +1,31 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "188ce8ed-3709-4f08-b1d0-ca50ff0f075f",
+        "ProjectName": "DEMO_MSSQL_SB",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": ""
+      },
+      "UserData": [
+        {
+          "UserName": "berkeoz",
+          "DatabasesData": []
+        }
+      ],
+      "DatabasesStaticDataObjects": null
+    }
+  ],
+  "GlobalConfigurations": null
+}

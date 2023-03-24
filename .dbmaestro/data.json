@@ -53,7 +53,7 @@
                     "host": "WIN-U036DAHSO11\\SQLSERVER",
                     "authType": "SqlAuthentication",
                     "userName": "sa",
-                    "dbName": "DEMO_MSSQL_SB_DB_TASK2",
+                    "dbName": "DEMO_MSSQL_SB_DB1",
                     "Password": "do1NBD0OcmAl1jAcpH7iWg=="
                   }
                 },

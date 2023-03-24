@@ -56,6 +56,17 @@
                     "dbName": "DEMO_MSSQL_SB_DB1",
                     "Password": "do1NBD0OcmAl1jAcpH7iWg=="
                   }
+                },
+                {
+                  "BranchName": "new_feature_1",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "SQL Server",
+                    "host": "WIN-U036DAHSO11\\SQLSERVER",
+                    "authType": "SqlAuthentication",
+                    "userName": "sa",
+                    "dbName": "DEMO_MSSQL_SB_DB_TASK1",
+                    "Password": "do1NBD0OcmAl1jAcpH7iWg=="
+                  }
                 }
               ],
               "RepositoryCredentials": {

@@ -76,6 +76,12 @@
               "schema": "dbo",
               "name": "Table_1",
               "type": "Table"
+            },
+            {
+              "UniqueIndex": "PK_Table_2",
+              "schema": "dbo",
+              "name": "Table_2",
+              "type": "Table"
             }
           ]
         }
